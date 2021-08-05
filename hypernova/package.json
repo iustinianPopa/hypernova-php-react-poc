@@ -1,0 +1,14 @@
+{
+  "name": "hypernova-server",
+  "version": "1.0.0",
+  "description": "Hypernova server app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node hypernova --experimental-modules"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hypernova": "^2.5.0"
+  }
+}
